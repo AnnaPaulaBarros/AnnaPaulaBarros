@@ -13,11 +13,18 @@
   <img height="35" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img height="35" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" alt="Tableau"/>
+ <img height="35" alt="image" src="https://github.com/user-attachments/assets/de603dc8-7791-4fea-892c-ada22c739868" />
+
   </p>
 <p align="center">
   <img height="35" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
   <img height="45" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
+  <img height="45" src="https://github.com/user-attachments/assets/c82394a7-ba43-4502-8467-c633210e0c32" />
+  <img height="45" src="https://github.com/user-attachments/assets/ddab75f2-31f6-4d5e-9f8b-1a454d6d79f1" />
+  <img height="45" src="https://github.com/user-attachments/assets/37683529-1728-4b5b-adba-062221f7207d" />
+  <img height="45" src="https://github.com/user-attachments/assets/cbb5ac5e-8825-4c14-b7f5-0351ccc036a4" />
+
 </p>
   
 

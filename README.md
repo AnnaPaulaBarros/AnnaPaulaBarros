@@ -7,10 +7,11 @@
 ![Anna Paula Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=annapaulabarros&show_icons=true&theme=radical)
 
 <p align="center">
-  <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img height="55" alt="image" src="https://github.com/user-attachments/assets/418a5956-4387-4e7f-a64b-0a8708813435" />
-  <img height="35" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  
   <img height="50" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" alt="PowerBI"/>
+  <img height="55" alt="image" src="https://github.com/user-attachments/assets/418a5956-4387-4e7f-a64b-0a8708813435" />
+  <img height="35" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img height="35" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" alt="Tableau"/>
   </p>
 <p align="center">

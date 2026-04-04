@@ -7,17 +7,17 @@
 ![Anna Paula Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=annapaulabarros&show_icons=true&theme=radical)
 
 
-<p align="center">
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white"/>
-  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img align="center" alt="Adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img width="10" height="10" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white"/>
-  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" />
-  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" />
-  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c1232698-c479-48d9-9c69-6d2a4a0e116d" />
+<p>
+<img width="100" height="100"alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img width="100" height="100" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img width="100" height="100" alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white"/>
+<img width="100" height="100" alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+<img width="100" height="100" alt="Adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
+<img width="100" height="100" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white"/>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c1232698-c479-48d9-9c69-6d2a4a0e116d" />
 
 
 

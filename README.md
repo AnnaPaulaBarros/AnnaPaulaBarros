@@ -14,6 +14,8 @@
   <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img align="center" alt="Adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white"/>
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" />
+
 </p>
 
 <p align="center">

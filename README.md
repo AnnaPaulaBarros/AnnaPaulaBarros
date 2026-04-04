@@ -6,20 +6,20 @@
 
 ![Anna Paula Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=annapaulabarros&show_icons=true&theme=radical)
 
-
 <p align="center">
-  <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
   <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="35" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img height="35" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img height="35" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  
   <img height="50" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" alt="PowerBI"/>
   <img height="35" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" alt="Tableau"/>
-  <img height="45" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
   <img height="55" src="https://github.com/user-attachments/assets/e38eee4f-53de-4533-80d2-1d79b577beb6" alt="SQL"/>
 </p>
-
+<p align="center">
+  <img height="35" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img height="35" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img height="45" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
+</p>
+  
 
 ##### <i> "Transformando paixões em inovação, conectando corações e bytes para um futuro onde os animais são sempre amados e protegidos". </i> 
 

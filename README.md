@@ -16,7 +16,7 @@
 <p align="center">
   <img height="35" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img height="35" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img height="35" alt="image" src="https://github.com/user-attachments/assets/418a5956-4387-4e7f-a64b-0a8708813435" />
   <img height="45" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
 </p>
   

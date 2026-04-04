@@ -16,8 +16,8 @@
   
   <img height="35" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" alt="PowerBI"/>
   <img height="35" src="https://github.com/user-attachments/assets/b4ee0d68-c04f-4682-b9f8-b576b54db20a" alt="Tableau"/>
-  <img height="35" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
-  <img height="45" src="https://github.com/user-attachments/assets/e38eee4f-53de-4533-80d2-1d79b577beb6" alt="SQL"/>
+  <img height="45" src="https://github.com/user-attachments/assets/956a4eae-e478-413b-9527-245fbc37de7e" alt="Flutter"/>
+  <img height="50" src="https://github.com/user-attachments/assets/e38eee4f-53de-4533-80d2-1d79b577beb6" alt="SQL"/>
 </p>
 
 

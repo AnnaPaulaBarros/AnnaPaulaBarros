@@ -10,8 +10,8 @@
 
 #### 🛠️ Ferramentas utilizadas:
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img height="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img height="40" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" alt="PowerBI"/>
   <img height="40" src="https://github.com/user-attachments/assets/418a5956-4387-4e7f-a64b-0a8708813435" alt="SQL"/>
   <img height="40" src="https://github.com/user-attachments/assets/de603dc8-7791-4fea-892c-ada22c739868" alt="Excel"/>

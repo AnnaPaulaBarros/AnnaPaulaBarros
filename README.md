@@ -1,11 +1,10 @@
-### Olá! Eu sou Anna Paula Barros 🤩
+### Olá! Eu sou Anna Paula Barros
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/annapaula9829)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https//instagram.com/annapaula.bds](https://www.instagram.com/annapaula.bds?igsh=ZG5zd3ZkNDA2OGth&utm_source=qr))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annapaulabds/)
 
-![Anna Paula Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=annapaulabarros&show_icons=true&theme=radical)
-
+#### 🛠️ Ferramentas utilizadas:
 <p align="center">
   
   <img height="50" src="https://github.com/user-attachments/assets/a6ec9ad6-15a6-42fa-9fcb-5048e7de4554" alt="PowerBI"/>
@@ -15,6 +14,7 @@
  <img height="35" alt="image" src="https://github.com/user-attachments/assets/de603dc8-7791-4fea-892c-ada22c739868" />
 
   </p>
+  
 <p align="center">
   <img height="35" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>

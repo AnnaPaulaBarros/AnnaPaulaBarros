@@ -5,9 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annapaulabds/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annapaula.bds)
 [![Mestre Paulo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annapaula.bds)
-[![Miaucaomigo](<img width="239" height="239" alt="image" src="https://github.com/user-attachments/assets/04a4745c-46b4-47f6-a665-3fdb65d5da0b" />
->
-)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/04a4745c-46b4-47f6-a665-3fdb65d5da0b" />
+
 
 
 
